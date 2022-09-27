@@ -135,3 +135,28 @@ ___
 
 *Sanjow 2022*
 # sanjow-app
+
+> # Evaluation
+> #### Gaurav Kumar
+>
+> Overall it was a good assignment with some issues not solved completely.
+>
+> Created a *Branch* ***Evaluation*** with the main changes I've found and with this updated ***README***
+>
+> I leave you some remarks below with PROS and CONS...
+>
+> Finally, I want to thank you for your time, expecting to talk to you soon...
+
+> ### PROS
+- Good knowledge of React and NextJS
+- Knowledge of VCS GIT
+- Use of localStorage API
+- Use of existing libraries
+- Good formatting and ESlint
+- Good time delivery
+
+> ### CONS
+- Minor unused code
+- User should only be edited by itself when logged in (no edit check)
+- No refactoring using NextJS API (task 5.3)
+- No .env variables used
